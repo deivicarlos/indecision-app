@@ -24,6 +24,7 @@ let template = (
         <ol>
             <li>Item one</li>
             <li>Item two</li>
+            <li>Item three</li>
         </ol>
     </div>
 );
