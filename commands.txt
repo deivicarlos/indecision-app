@@ -15,4 +15,8 @@ To install everything on package.json run "npm install"
 -Installing babel (globally)
     "npm install -g babel-cli"
 
+Organize Code
+    On Mac Shift + Option + F
+    On Windows Shift + Alt + F
+
 check on mdn bind
